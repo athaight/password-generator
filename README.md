@@ -9,3 +9,5 @@ The end result is something rather useful as it randomly creates a password betw
 
 
 https://github.com/athaight/password-generator/blob/main/assets/image/03-javascript-homework-demo.png?raw=true
+
+https://athaight.github.io/password-generator/
