@@ -8,4 +8,4 @@ This project was useful for gaining exposure to the way JavaScript functions, an
 The end result is something rather useful as it randomly creates a password between 8-128 characters long with numbers and special characters
 
 
-/assets/image/03-javascript-homework-demo.png
+https://github.com/athaight/password-generator/blob/main/assets/image/03-javascript-homework-demo.png?raw=true
