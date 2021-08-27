@@ -6,3 +6,13 @@ This assignment helped to reinforce the concept of for loops, functions, if/else
 This project was useful for gaining exposure to the way JavaScript functions, and helped give us experience using the debugger in Chrome DevTools.
 
 The end result is something rather useful as it randomly creates a password between 8-128 characters long with numbers and special characters
+<br>
+
+Preview image of project:
+<p  align="center">
+<img src="https://github.com/athaight/password-generator/blob/main/assets/image/03-javascript-homework-demo.png" alt="demo image of password generator" />
+</p>
+<br>
+
+Here's a link to the deployed site:
+https://athaight.github.io/password-generator/
