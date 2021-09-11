@@ -20,3 +20,5 @@ The end result is something rather useful as it randomly creates a password betw
 
 <h2>Here's a link to the deployed site:</h2>
 https://athaight.github.io/password-generator/
+ 
+ <img src="https://github.com/athaight/password-generator/blob/main/assets/image/03-javascript-homework-demo.png">
